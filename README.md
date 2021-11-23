@@ -22,4 +22,4 @@ To have the interface default to a different network when a wallet is not connec
 
 **Please open all pull requests against the `master` branch.** 
 CI checks will run against all PRs.
-# Global Partners Metix DEX
+# Global Partners Metis DEX
